@@ -1,6 +1,6 @@
 {
   "dealership": "Jim Pattison Toyota Downtown",
-  "generated_at": "2026-10-25T18:49:15",
+  "generated_at": "2026-10-25T18:54:34",
   "vehicle_count": 70,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -772,7 +772,7 @@
       "make": "Toyota",
       "model": "Prius",
       "condition": "new",
-      "price": 47301.0,
+      "price": 47302.0,
       "price_currency": "CAD"
     }
   ]
