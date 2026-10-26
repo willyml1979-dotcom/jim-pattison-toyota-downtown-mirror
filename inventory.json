@@ -1,6 +1,6 @@
 {
   "dealership": "Jim Pattison Toyota Downtown",
-  "generated_at": "2026-10-25T18:54:34",
+  "generated_at": "2026-10-26T04:00:50",
   "vehicle_count": 70,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -182,7 +182,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Mazda CX-5 Sport Design AWD | No Accidents | Low Kilometers",
+      "name": "2025 Mazda CX-5 Sport Design AWD | No Accidents | Heads up Display",
       "vin": "JM3KFBDY3S0552508",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-downtown-mirror/used/e75bb60c362c.html",
       "year": 2025,
