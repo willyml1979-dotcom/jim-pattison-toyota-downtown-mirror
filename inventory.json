@@ -1,7 +1,7 @@
 {
   "dealership": "Jim Pattison Toyota Downtown",
-  "generated_at": "2026-10-26T04:00:50",
-  "vehicle_count": 70,
+  "generated_at": "2026-10-26T04:08:27",
+  "vehicle_count": 71,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -729,6 +729,17 @@
       "model": "C-HR",
       "condition": "new",
       "price": 47566.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota Corolla Hatchback ",
+      "vin": "JTNK4MBE8V3272908",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-downtown-mirror/new/7567b2c951a9.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "Corolla Hatchback",
+      "condition": "new",
+      "price": 30166.0,
       "price_currency": "CAD"
     },
     {
