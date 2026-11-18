@@ -1,21 +1,10 @@
 {
   "dealership": "Jim Pattison Toyota Downtown",
-  "generated_at": "2026-11-16T22:33:21",
-  "vehicle_count": 69,
+  "generated_at": "2026-11-17T19:50:06",
+  "vehicle_count": 68,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
-    {
-      "name": "2014 Jeep Grand Cherokee Limited 4x4 | Local BC Driven | Brand New Tires",
-      "vin": "1C4RJFBG4EC327136",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-downtown-mirror/used/519bd0e45b6d.html",
-      "year": 2014,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 11498.0,
-      "price_currency": "CAD"
-    },
     {
       "name": "2017 Nissan Rogue SL Platinum AWD | Local BC Driven | Fully Loaded",
       "vin": "5N1AT2MV6HC768763",
@@ -72,15 +61,13 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2020 Toyota Prius Prime Upgrade Package",
-      "vin": "JTDKARFP3L3146037",
-      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-downtown-mirror/used/9edcbe8cfde8.html",
-      "year": 2020,
+      "name": "2021 Toyota Tacoma Double Cab",
+      "vin": "5TFDZ5BN7MX067074",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-downtown-mirror/used/37248d934ffe.html",
+      "year": 2021,
       "make": "Toyota",
-      "model": "Prius Prime",
-      "condition": "used",
-      "price": 26995.0,
-      "price_currency": "CAD"
+      "model": "Tacoma Double Cab",
+      "condition": "used"
     },
     {
       "name": "2022 Toyota Corolla L | Certified | No Accidents | All Weather Tires",

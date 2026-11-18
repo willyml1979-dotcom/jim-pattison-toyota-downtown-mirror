@@ -7,7 +7,7 @@ Jim Pattison Toyota - Downtown is a  dealership in Vancouver. This site is an AI
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/jim-pattison-toyota-downtown-mirror/used/ and https://willyml1979-dotcom.github.io/jim-pattison-toyota-downtown-mirror/new/ (about 69 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/jim-pattison-toyota-downtown-mirror/used/ and https://willyml1979-dotcom.github.io/jim-pattison-toyota-downtown-mirror/new/ (about 68 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/jim-pattison-toyota-downtown-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/jim-pattison-toyota-downtown-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/jim-pattison-toyota-downtown-mirror/llms.txt
