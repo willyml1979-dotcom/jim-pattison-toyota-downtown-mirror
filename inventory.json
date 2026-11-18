@@ -1,7 +1,7 @@
 {
   "dealership": "Jim Pattison Toyota Downtown",
-  "generated_at": "2026-11-17T19:50:06",
-  "vehicle_count": 68,
+  "generated_at": "2026-11-17T20:07:11",
+  "vehicle_count": 75,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -363,7 +363,7 @@
       "make": "Toyota",
       "model": "Crown Signia",
       "condition": "new",
-      "price": 65391.0,
+      "price": 65013.0,
       "price_currency": "CAD"
     },
     {
@@ -378,6 +378,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Toyota GR Corolla ",
+      "vin": "SB1ADADE0TE004985",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-downtown-mirror/new/d44b5498d9bb.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "GR Corolla",
+      "condition": "new",
+      "price": 60468.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Toyota Highlander Limited AWD",
       "vin": "5TDKDRBH7TS615439",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-downtown-mirror/new/4596e0d25c56.html",
@@ -385,7 +396,7 @@
       "make": "Toyota",
       "model": "Highlander",
       "condition": "new",
-      "price": 59588.0,
+      "price": 61909.0,
       "price_currency": "CAD"
     },
     {
@@ -396,7 +407,7 @@
       "make": "Toyota",
       "model": "Highlander",
       "condition": "new",
-      "price": 59587.0,
+      "price": 61908.0,
       "price_currency": "CAD"
     },
     {
@@ -521,6 +532,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2026 Toyota Sienna XSE",
+      "vin": "5TDGSKFC7TS301601",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-downtown-mirror/new/ca21afb6dac7.html",
+      "year": 2026,
+      "make": "Toyota",
+      "model": "Sienna",
+      "condition": "new",
+      "price": 60282.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Toyota Tacoma Double Cab 4x4 Double Cab Auto SB Hybrid",
       "vin": "3TYLC5LN8TT074815",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-downtown-mirror/new/fdf400af9023.html",
@@ -642,6 +664,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2027 Toyota bZ XLE",
+      "vin": "JTMADAFB2VA017536",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-downtown-mirror/new/bb0f0da2950c.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "bZ",
+      "condition": "new",
+      "price": 56077.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Toyota C-HR ",
       "vin": "JTMAAAAD4VJ032587",
       "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-downtown-mirror/new/f98ad45969cf.html",
@@ -683,6 +716,39 @@
       "model": "C-HR",
       "condition": "new",
       "price": 57622.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota C-HR SE",
+      "vin": "JTMABABD3VJ039011",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-downtown-mirror/new/d4d5c51f3d56.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "C-HR",
+      "condition": "new",
+      "price": 47567.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota Camry SE",
+      "vin": "4T1DAACK9VU798284",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-downtown-mirror/new/676d62568e7c.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "Camry",
+      "condition": "new",
+      "price": 40211.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota Corolla Hatchback ",
+      "vin": "JTNK4MBE4V3278933",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-downtown-mirror/new/30dc22f30d33.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "Corolla Hatchback",
+      "condition": "new",
+      "price": 35249.0,
       "price_currency": "CAD"
     },
     {
@@ -738,6 +804,17 @@
       "model": "Prius Prime",
       "condition": "new",
       "price": 43681.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Toyota Prius Plug-In Hybrid XSE",
+      "vin": "JTDACACU3V3088838",
+      "url": "https://willyml1979-dotcom.github.io/jim-pattison-toyota-downtown-mirror/new/6c5fb4dfb234.html",
+      "year": 2027,
+      "make": "Toyota",
+      "model": "Prius Prime",
+      "condition": "new",
+      "price": 48361.0,
       "price_currency": "CAD"
     },
     {
